@@ -1,4 +1,4 @@
-# GreenCrow-USDTMiner
+# USDTether-Miner
 Legitimate cloud usdt miner
 <img src="screenshot.png">
 <hr>
